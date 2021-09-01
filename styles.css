@@ -1,0 +1,117 @@
+*{
+  font-family: 'Roboto', sans-serif;
+}
+
+body{
+  background: linear-gradient(180deg, #0F0C29 -11.94%, #302B63 51.32%, #24243E 113.28%);
+}
+body#singup{
+  background: linear-gradient(180deg, #B79891 0%, #94716B 123.44%);
+}
+p{
+  margin-top: 25px;
+  font-size: 20px;
+  text-align: center;
+  color: white
+
+}
+
+h1{
+  margin-top: 165px;
+  font-weight: bold;
+  font-size: 34px;
+  text-align: center;
+  color: white;
+
+}
+h1#singup{
+  margin-top: 174px;
+  font-weight: bold;
+  font-size: 34px;
+  text-align: center;
+  margin-bottom: 46px;
+  color: white
+}
+
+
+input{
+  width: 342px;
+  height: 74px;
+  margin-bottom: 16px;
+  font-weight: 500;
+  font-size: 17px;
+  padding-left: 26px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  outline: none;
+
+}
+
+input#nome{
+  width: 342px;
+  height: 74px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  font-weight: 500;
+  font-size: 17px;
+  padding-left: 53px;
+  margin-bottom: 16px;
+  outline: none;
+}
+
+input#email{
+  width: 342px;
+  height: 74px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  font-weight: 500;
+  font-size: 17px;
+  padding-left: 53px;
+  margin-bottom: 16px;
+  outline: none;
+
+}
+
+input#senha{
+  width: 342px;
+  height: 74px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  font-weight: 500;
+  font-size: 17px;
+  padding-left: 53px;
+  margin-bottom: 16px;
+  outline: none;
+
+}
+
+button{
+  display: block;
+  background: black;
+  width: 342px;
+  height: 74px;
+  margin-right: auto;
+  margin-left: auto;
+  border: none;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:active{
+  opacity: 0.6;
+}
+
+a{
+  margin-top: 140px;
+  display: block;
+  text-align: center;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
